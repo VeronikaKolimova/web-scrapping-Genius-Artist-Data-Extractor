@@ -8,7 +8,7 @@ This script extracts artist information and top songs from Genius.com using HTTP
 Этот проект демонстрирует базовые принципы веб-скрапинга с использованием Python. Скрипт автоматически извлекает информацию об артисте и его популярных песнях с сайта Genius.com — платформы для текстов песен.
 
 # Просмотр ноутбука доступен по ссылке:
-
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/VeronikaKolimova/web-scrapping-Genius-Artist-Data-Extractor/blob/main/Web_scrapping_genius_artists.ipynb)
 
 # Функционал
 Получение содержимого веб-страницы артиста
