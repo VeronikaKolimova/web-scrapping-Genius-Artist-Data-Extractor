@@ -11,11 +11,11 @@ This script extracts artist information and top songs from Genius.com using HTTP
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/VeronikaKolimova/web-scrapping-Genius-Artist-Data-Extractor/blob/main/Web_scrapping_genius_artists.ipynb)
 
 # Функционал
-Получение содержимого веб-страницы артиста
-Парсинг HTML для извлечения данных
-Извлечение названий и ссылок на первые 3 популярные песни артиста
-Сохранение исходного HTML для отладки и анализа
-Обработка ошибок при выполнении запросов
+- Получение содержимого веб-страницы артиста
+- Парсинг HTML для извлечения данных
+- Извлечение названий и ссылок на первые 3 популярные песни артиста
+- Сохранение исходного HTML для отладки и анализа
+- Обработка ошибок при выполнении запросов
 
 # Требования
 Для запуска скрипта необходимы следующие библиотеки Python:
